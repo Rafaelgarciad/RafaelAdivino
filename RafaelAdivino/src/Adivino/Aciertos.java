@@ -1,6 +1,8 @@
 package Adivino;
 import java.util.Scanner;
 
+/* Adolfo Sobrino: no hay ninguna correción por hacer*/
+
 public class Aciertos {
 
     public static void main(String[] args) {
